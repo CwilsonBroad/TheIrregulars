@@ -1,1 +1,1 @@
-# Scripts to manipulate Next Generation Sequencing output
+# Scripts to manipulate next generation sequencing (NGS) output
