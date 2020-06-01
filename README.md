@@ -1,2 +1,2 @@
-# Utilities
+# TheIrregulars
 Useful bioinformatics scripts 
