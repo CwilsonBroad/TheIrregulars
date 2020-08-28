@@ -1,0 +1,5 @@
+from Bio import SeqIO
+
+records = SeqIO.parse("STOCKHOLM_FILE", "stockholm")
+count = SeqIO.write(records, "FASTA_OUT_FILE", "fasta")
+print("Converted %i records" % count)
